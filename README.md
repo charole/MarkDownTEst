@@ -18,8 +18,8 @@ function a() {
 
 # 3
 
-\[4444]: (http://sbbowl.mynetgear.com:249/redmine/projects/sbgrid/issues)
+\[4444]: (http://sbbowl.mynetgear.com:249/09_TestCase/RedmineTestSample/SBGrid2.5/5451.html)
 
 
 # 4
-<a href="file://192.168.0.250/09_TestCase/RedmineTestSample/SBGrid2.5/5451.html">123213</a>
+<a href="http://sbbowl.mynetgear.com:249/09_TestCase/RedmineTestSample/SBGrid2.5/5451.html">123213</a>
