@@ -1,9 +1,11 @@
 ### test
 
-```javascript
-function a() {
+```html
+<script>
 	console.log(123);
-};
+</script>
+
+<p>123</p>
 ```
 
 \[1111]: file://192.168.0.250/09_TestCase/RedmineTestSample/SBGrid2.5/5451.html
@@ -22,4 +24,4 @@ function a() {
 
 
 # 4
-[5555](file://192.168.0.250/09_TestCase/RedmineTestSample/SBGrid2.5/5451.html)
+[site](file://192.168.0.250/09_TestCase/RedmineTestSample/SBGrid2.5/5451.html)
